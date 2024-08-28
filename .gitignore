@@ -1,0 +1,12 @@
+# Ignore all files
+*
+
+# Include specific files or folders
+!.gitignore         # Keep the .gitignore file itself
+
+# Files
+!.zshrc
+!README.md
+
+# Folders
+!important-folder/  # Keep the entire 'important-folder' directory
